@@ -1,5 +1,5 @@
 import React from "react"
-import Main from "./main"
+import Main from "./views/Main";
 
 
 const App = () => {
@@ -10,4 +10,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
